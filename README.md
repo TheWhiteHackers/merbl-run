@@ -9,4 +9,4 @@ Here are some pictures of the marble run!
 
 ![view one of the run](imgs/viewone.png)
 
-![view two of the run](img/viewtwo.png)
+![view two of the run](imgs/viewtwo.png)
